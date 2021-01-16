@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CAL_SMAi-TMEi/static/css/main.b7edabe7.chunk.css",
+    "main.js": "/CAL_SMAi-TMEi/static/js/main.80a209f0.chunk.js",
+    "main.js.map": "/CAL_SMAi-TMEi/static/js/main.80a209f0.chunk.js.map",
+    "runtime-main.js": "/CAL_SMAi-TMEi/static/js/runtime-main.9a1e25cf.js",
+    "runtime-main.js.map": "/CAL_SMAi-TMEi/static/js/runtime-main.9a1e25cf.js.map",
+    "static/js/2.8604a33e.chunk.js": "/CAL_SMAi-TMEi/static/js/2.8604a33e.chunk.js",
+    "static/js/2.8604a33e.chunk.js.map": "/CAL_SMAi-TMEi/static/js/2.8604a33e.chunk.js.map",
+    "index.html": "/CAL_SMAi-TMEi/index.html",
+    "static/css/main.b7edabe7.chunk.css.map": "/CAL_SMAi-TMEi/static/css/main.b7edabe7.chunk.css.map",
+    "static/js/2.8604a33e.chunk.js.LICENSE.txt": "/CAL_SMAi-TMEi/static/js/2.8604a33e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a1e25cf.js",
+    "static/js/2.8604a33e.chunk.js",
+    "static/css/main.b7edabe7.chunk.css",
+    "static/js/main.80a209f0.chunk.js"
+  ]
+}
