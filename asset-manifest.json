@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CAL_SMAi-TMEi/static/css/main.84f2f63c.chunk.css",
+    "main.css": "/CAL_SMAi-TMEi/static/css/main.2b194f3a.chunk.css",
     "main.js": "/CAL_SMAi-TMEi/static/js/main.a6ecd43e.chunk.js",
     "main.js.map": "/CAL_SMAi-TMEi/static/js/main.a6ecd43e.chunk.js.map",
     "runtime-main.js": "/CAL_SMAi-TMEi/static/js/runtime-main.9a1e25cf.js",
@@ -8,13 +8,13 @@
     "static/js/2.8604a33e.chunk.js": "/CAL_SMAi-TMEi/static/js/2.8604a33e.chunk.js",
     "static/js/2.8604a33e.chunk.js.map": "/CAL_SMAi-TMEi/static/js/2.8604a33e.chunk.js.map",
     "index.html": "/CAL_SMAi-TMEi/index.html",
-    "static/css/main.84f2f63c.chunk.css.map": "/CAL_SMAi-TMEi/static/css/main.84f2f63c.chunk.css.map",
+    "static/css/main.2b194f3a.chunk.css.map": "/CAL_SMAi-TMEi/static/css/main.2b194f3a.chunk.css.map",
     "static/js/2.8604a33e.chunk.js.LICENSE.txt": "/CAL_SMAi-TMEi/static/js/2.8604a33e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a1e25cf.js",
     "static/js/2.8604a33e.chunk.js",
-    "static/css/main.84f2f63c.chunk.css",
+    "static/css/main.2b194f3a.chunk.css",
     "static/js/main.a6ecd43e.chunk.js"
   ]
 }
